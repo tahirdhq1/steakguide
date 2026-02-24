@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tahirdhq1.github.io/steakguide/sitemap.xml
